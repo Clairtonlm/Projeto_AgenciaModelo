@@ -2,6 +2,10 @@ body{
     background: #d2dec1 url('../img/fundo.png');
     font: 16px arial, Helvetica, sans-serif;
 }
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
 #principal{
     width: 900px;
    
@@ -20,4 +24,7 @@ a{
     font-weight: bold;
     padding: 5px;
 
+}
+.centralizar{
+    text-align: center;
 }
