@@ -8,6 +8,7 @@ h1{
 }
 #principal{
     width: 900px;
+   margin: auto;
    
 }
 #menu{
@@ -27,4 +28,8 @@ a{
 }
 .centralizar{
     text-align: center;
+}
+.img-campanha{
+    border: 10px solid #c3c3ae;
+    margin: auto;
 }
